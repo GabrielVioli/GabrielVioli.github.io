@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f3f5; /* Azul claro */
+    background-color: #e1f5fe; /* Azul pastel */
     color: #37474f; /* Azul escuro */
     text-align: center;
     margin: 20px;
@@ -16,7 +16,7 @@ body {
 }
 
 h2 {
-    color: #ffca28; /* Amarelo */
+    color: #ffca28; /* Amarelo pastel */
 }
 
 label {
@@ -33,7 +33,7 @@ input {
 }
 
 button {
-    background-color: #ffca28; /* Amarelo */
+    background-color: #ffca28; /* Amarelo pastel */
     color: #37474f; /* Azul escuro */
     padding: 10px;
     border: none;
